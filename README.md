@@ -47,7 +47,7 @@ The project covers the following modules:
 - Identified and documented defects.
 - Prepared test execution results and testing documentation.
 
-## Tools & Technologies
+Tools & Technologies
 
 - Selenium IDE
 - Web Browser
@@ -72,6 +72,6 @@ Project Report
 
 The complete project report, including testing documentation, test cases, and execution details, is available in the `docs` directory.
 
-Report: [Web-Based Banking System Project Report](docs/Web-Based-Banking-System-Project-Report.pdf)
+Report: [Web-Based Banking System Project Report](https://github.com/SayedArifinOmi/web-based-banking-system-software-testing/blob/main/Selenium%20Testing%20Report.pdf)
 
 Disclaimer: This project was developed for testing and demonstration purposes. It is not intended for real-world banking transactions.
